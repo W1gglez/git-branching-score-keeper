@@ -12,15 +12,20 @@ header {
 }
 
 .team {
-  width: 50%;
+  width: 49%;
   height: 200px;
   float: left;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 8px;
 }
 
 .team1 {
-  background-color: gray;
+  background-color: rgb(187, 10, 10);
+  
 }
 
 .team2 {
-  background-color: gray;
+  background-color: rgb(50, 4, 64);
+  color: white;
 }
